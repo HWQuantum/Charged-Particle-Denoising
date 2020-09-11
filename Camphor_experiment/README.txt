@@ -47,6 +47,6 @@ Steps:
 	5. Run ./Codes/evaluate_real.py
 
 Commentary
-We provide the checkpoint of the already trained network in './Checkpoint/' corresponding to the noise parameters : intensity=5 and background=0.001.
+We provide checkpoints for two already trained network in './Checkpoint/'. Checkpoint_model6layers_5_0.01 corresponds to the noise parameters : intensity=5 and background=0.001. Checkpoint_model6layers_60_0.1 corresponds to the noise parameters : intensity=60 and background=0.1.
 The script runs the network on our real data saved in './Real_Data/Data/S_Camphor_All_Shots.mat' for both LCP and RCP polarised light. The results are saved in '.Real_Data/Results/res_*intensity_level*_*background_level*.mat'. 
 
