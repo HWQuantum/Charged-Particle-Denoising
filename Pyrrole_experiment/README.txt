@@ -6,7 +6,7 @@ Contact: d.townsend@hw.ac.uk.
 
 
 This folder contains the code implementation and trained models used for the
-Pyrrole Experiment of the Project. The following describes how to generate training data and perform the training and evaluation on the captured results. Packaged with the code we include our real data.
+Pyrrole Experiment of the Project. The following describes how to generate training data and perform the training and evaluation on the captured results. We provide data and checkpoints at https://researchportal.hw.ac.uk/en/datasets/dataset-for-artificial-neural-networks-for-noise-removal-in-data-.
 
 
 ==Generating Training Data==
